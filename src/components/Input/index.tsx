@@ -6,21 +6,21 @@ import {
   InputHTMLAttributes,
 } from 'react';
 
+import { IconType } from 'react-icons';
+
 import { useField } from '@unform/core';
 
 import { Container } from './styles';
 
 interface InputProps extends InputHTMLAttributes<HTMLInputElement> {
-  name: string;
   icon?: IconType;
 }
-
 
 export function Input({ name, icon: Icon, ...rest }: InputProps) {
   const inputRef = useRef<HTMLInputElement>(null);
 
-  const [isFocused, setIsFocused] = useState(false);
-  const [isFilled, setIsFilled] = useState(false);
+  const [isFocused, setIsFocused] = useState<boolean>(false);
+  const [isFilled, setIsFilled] = useState<boolean>(false);
 
   const { fieldName, defaultValue, registerField } = useField(name || '');
 
