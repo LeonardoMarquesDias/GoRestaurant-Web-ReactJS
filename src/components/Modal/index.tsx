@@ -1,4 +1,4 @@
-import { useEffect, useState, ReactNode } from 'react';
+import { useEffect, useState } from 'react';
 import ReactModal from 'react-modal';
 
 interface ModalProps {
