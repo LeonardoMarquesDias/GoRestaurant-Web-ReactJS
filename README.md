@@ -50,7 +50,7 @@ $ yarn dev
 or
 $ npm dev
 
-# Acesse http://localhost:8080 no seu navagador
+# Access http://localhost:3000 
 ```
 ## 🌐 Reference
 
