@@ -4,7 +4,7 @@
 
 <h1 align="center"> RocketSeat 🔥 Ignite ReactJS </h1>
 
-<h2 align="center"> challenge 02 : Componentizing the App ( WatchMe Project ) </h2>
+<h2 align="center"> challenge 02 : Componentizing the Application ( Project WatchMe ) </h2>
 
 <p align="center">
   <a href="https://rocketseat.com.br">
@@ -14,7 +14,7 @@
 ## 🚀 About Project
 In this challenge, the objective was to migrate an application from Javascript and Class Components to Typescript and Function Components. 
 
-## 🔲 Imagens do Projeto
+## 💻 Project Image
 
 <div align="center">
    <img src="./assets/gorestaurant.png" alt="imagem do Projeto"/> 
@@ -33,20 +33,21 @@ This project was developed with the following technologies:
 ```bash
 # You need to install Node.js and Yarn first, then in order to clone the project via HTTPS, run this command:
 $ https://github.com/LeonardoMarquesDias/GoRestaurant-Web-ReactJS.git
-# ou use a opção de download.
+# or use the download option.
 
 # Install dependencies
 $ yarn install
-ou
+or
 $ npm install
 
 # Run the following command to start the fake API with JSON Server to simulate an API that has foods information:
 $ yarn server
+or
+$ npm server
 
-# Getting Started
 # Run the following command to start the application in a development environment:
 $ yarn dev 
-ou
+or
 $ npm dev
 
 # Acesse http://localhost:8080 no seu navagador
