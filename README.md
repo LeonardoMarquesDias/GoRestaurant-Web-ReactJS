@@ -4,7 +4,7 @@
 
 <h1 align="center"> RocketSeat 🔥 Ignite ReactJS </h1>
 
-<h2 align="center"> challenge 02 : Componentizando a App ( WatchMe Project ) </h2>
+<h2 align="center"> challenge 02 : Componentizing the App ( WatchMe Project ) </h2>
 
 <p align="center">
   <a href="https://rocketseat.com.br">
@@ -53,9 +53,8 @@ $ npm dev
 ```
 ## 🌐 Reference
 
-[Desafio 02 - WatchMe](https://www.notion.so/Desafio-02-Componentizando-a-aplica-o-b9f0f025c95b437699d0c3115f55b0f1) - Notion com todas as informações.
+[Desafio 02 - WatchMe](https://www.notion.so/Desafio-02-Componentizando-a-aplica-o-b9f0f025c95b437699d0c3115f55b0f1) - Notion Info.
 
-<br>
 
 ## 📝 License
 
