@@ -18,7 +18,7 @@ export function Header({ openModal }: HeaderProps) {
               type="button"
               onClick={openModal}
             >
-              <div className="text">Novo Prato</div>
+              <div className="text">New Food</div>
               <div className="icon">
                 <FiPlusSquare size={24} />
               </div>
