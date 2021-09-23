@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/ignite.png">
+  <img src="../../assets/ignite.png">
 </div>
 
 <h1 align="center"> RocketSeat 🔥 Ignite ReactJS </h1>
@@ -31,7 +31,7 @@ This project was developed with the following technologies:
 
 ## ⚙️ Installation
 ```bash
-# You need to install Node.js and Yarn first, then in order to clone the project via HTTPS, run this command:
+# You need to install Node.js, then in order to clone the project via HTTPS, run this command:
 $ https://github.com/LeonardoMarquesDias/GoRestaurant-Web-ReactJS.git
 # or use the download option.
 
@@ -46,15 +46,15 @@ or
 $ npm server
 
 # Run the following command to start the application in a development environment:
-$ yarn dev 
+$ yarn start 
 or
-$ npm dev
+$ npm start
 
 # Access http://localhost:3000 
 ```
 ## 🌐 Reference
 
-[Desafio 02 - WatchMe](https://www.notion.so/Desafio-02-Componentizando-a-aplica-o-b9f0f025c95b437699d0c3115f55b0f1) - Notion Info.
+[challenge 02 - GoRestaurant](https://www.notion.so/Desafio-02-Refactoring-de-classes-e-typescript-4571541e7f8c4799bd191b6cfb53802c) - Notion Info.
 
 
 ## 📝 License
