@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/ignite.png">
+  <img src="src/assets/ignite.png">
 </div>
 
 <h1 align="center"> RocketSeat 🔥 Ignite ReactJS </h1>
@@ -17,7 +17,7 @@ In this challenge, the objective was to migrate an application from Javascript a
 ## 💻 Project Image
 
 <div align="center">
-   <img src="./assets/gorestaurant.png" alt="imagem do Projeto"/> 
+   <img src="src/assets/gorestaurant.png" alt="imagem do Projeto"/> 
    </br>
 </div>
 
