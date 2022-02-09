@@ -11,7 +11,7 @@ export function Header({ openModal }: HeaderProps) {
   return (
     <Container>
       <header>
-        <img src={Logo} alt="GoRestaurant" />
+        <img src={Logo} alt="GoRestaurant." />
         <nav>
           <div>
             <button
